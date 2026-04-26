@@ -1,13 +1,4 @@
 <?php
-// ==============================
-// TP POO PHP - Gestion Utilisateurs
-// Réalisé par : Barah
-// ==============================
-
-
-// ======================
-// INTERFACES
-// ======================
 
 interface Authentifiable {
     public function seConnecter();
